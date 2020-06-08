@@ -1,0 +1,15 @@
+..\ootput\system_stm32f10x.o: ..\Libraries\CMSIS\system_stm32f10x.c
+..\ootput\system_stm32f10x.o: ..\Libraries\CMSIS\stm32f10x.h
+..\ootput\system_stm32f10x.o: ..\Libraries\CMSIS\core_cm3.h
+..\ootput\system_stm32f10x.o: F:\MDK5\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\ootput\system_stm32f10x.o: ..\Libraries\CMSIS\system_stm32f10x.h
+..\ootput\system_stm32f10x.o: ..\Users\stm32f10x_conf.h
+..\ootput\system_stm32f10x.o: ..\Libraries\FWlib\inc\stm32f10x_adc.h
+..\ootput\system_stm32f10x.o: ..\Libraries\CMSIS\stm32f10x.h
+..\ootput\system_stm32f10x.o: ..\Libraries\FWlib\inc\stm32f10x_dma.h
+..\ootput\system_stm32f10x.o: ..\Libraries\FWlib\inc\stm32f10x_exti.h
+..\ootput\system_stm32f10x.o: ..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\ootput\system_stm32f10x.o: ..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\ootput\system_stm32f10x.o: ..\Libraries\FWlib\inc\stm32f10x_tim.h
+..\ootput\system_stm32f10x.o: ..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\ootput\system_stm32f10x.o: ..\Libraries\FWlib\inc\misc.h

@@ -1,0 +1,16 @@
+..\ootput\bsp_systick.o: ..\Users\systick\bsp_systick.c
+..\ootput\bsp_systick.o: ..\Users\systick\bsp_systick.h
+..\ootput\bsp_systick.o: ..\Libraries\CMSIS\stm32f10x.h
+..\ootput\bsp_systick.o: ..\Libraries\CMSIS\core_cm3.h
+..\ootput\bsp_systick.o: F:\MDK5\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\ootput\bsp_systick.o: ..\Libraries\CMSIS\system_stm32f10x.h
+..\ootput\bsp_systick.o: ..\Users\stm32f10x_conf.h
+..\ootput\bsp_systick.o: ..\Libraries\FWlib\inc\stm32f10x_adc.h
+..\ootput\bsp_systick.o: ..\Libraries\CMSIS\stm32f10x.h
+..\ootput\bsp_systick.o: ..\Libraries\FWlib\inc\stm32f10x_dma.h
+..\ootput\bsp_systick.o: ..\Libraries\FWlib\inc\stm32f10x_exti.h
+..\ootput\bsp_systick.o: ..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\ootput\bsp_systick.o: ..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\ootput\bsp_systick.o: ..\Libraries\FWlib\inc\stm32f10x_tim.h
+..\ootput\bsp_systick.o: ..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\ootput\bsp_systick.o: ..\Libraries\FWlib\inc\misc.h

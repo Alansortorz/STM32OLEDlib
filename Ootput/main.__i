@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\Libraries\FWlib\inc -I..\Libraries\CMSIS -I..\Users -I..\Users\oled -I..\Users\systick
+-I C:\Users\Administrator\Desktop\STM32Çý¶¯0.96´çOLEDÒº¾§ÏÔÊ¾ÆÁÄ»\Project\RTE
+-I D:\EmbededTools\Keil5\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include
+-I D:\EmbededTools\Keil5\Keil_v5\ARM\CMSIS\Include
+-D__UVISION_VERSION="515" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER
+-o ..\ootput\main.o --omf_browse ..\ootput\main.crf --depend ..\ootput\main.d "..\Users\main.c"

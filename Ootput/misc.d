@@ -1,0 +1,16 @@
+..\ootput\misc.o: ..\Libraries\FWlib\src\misc.c
+..\ootput\misc.o: ..\Libraries\FWlib\inc\misc.h
+..\ootput\misc.o: ..\Libraries\CMSIS\stm32f10x.h
+..\ootput\misc.o: ..\Libraries\CMSIS\core_cm3.h
+..\ootput\misc.o: F:\MDK5\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\ootput\misc.o: ..\Libraries\CMSIS\system_stm32f10x.h
+..\ootput\misc.o: ..\Users\stm32f10x_conf.h
+..\ootput\misc.o: ..\Libraries\FWlib\inc\stm32f10x_adc.h
+..\ootput\misc.o: ..\Libraries\CMSIS\stm32f10x.h
+..\ootput\misc.o: ..\Libraries\FWlib\inc\stm32f10x_dma.h
+..\ootput\misc.o: ..\Libraries\FWlib\inc\stm32f10x_exti.h
+..\ootput\misc.o: ..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\ootput\misc.o: ..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\ootput\misc.o: ..\Libraries\FWlib\inc\stm32f10x_tim.h
+..\ootput\misc.o: ..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\ootput\misc.o: ..\Libraries\FWlib\inc\misc.h
